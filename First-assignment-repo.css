@@ -11,7 +11,7 @@ body{
    border-radius: 10px;
 }
 h1{
-    font-size: 70px;
+    font-size: 60px;
 }
 .half-width{
     width: 50%; 
@@ -78,7 +78,13 @@ h1{
         #middel{
             text-align: center;
         }
-        
+        .background{
+            background-image: url(images/shapes/shape-1.png );
+            background-repeat: no-repeat;  background-position-x:10px; background-position-y: 0%; background-size: 90%;
+        }
+       .text-edit{
+           width: 20px;
+       }
 
 
 
