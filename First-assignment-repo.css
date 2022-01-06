@@ -43,8 +43,14 @@ h1{
 }
 
 .mission{
-    width: 25%; margin: 3%; box-shadow:30px 40px 50px grey;
-    padding-left: 120px; padding-right: 120px; padding-bottom: 20px; padding-top: 20px; display: flexbox; border-radius: 30px;
+    width: 1000px;  box-shadow:30px 40px 40px grey; height: 500px;
+    padding-left: 80px; padding-right: 80px; padding-bottom: 20px; padding-top: 20px;  border-radius: 30px; margin-left: 20px;margin-right: 20px;
+
+    margin-top: 20px; margin-bottom: 20px; 
+}
+
+.mission img{
+    width: 100px;
 }
 
 
