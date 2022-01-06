@@ -42,19 +42,39 @@ h1{
    
 }
 
-.mission{
-    width: 1000px;  box-shadow:30px 40px 40px grey; height: 500px;
-    padding-left: 80px; padding-right: 80px; padding-bottom: 20px; padding-top: 20px;  border-radius: 30px; margin-left: 20px;margin-right: 20px;
 
-    margin-top: 20px; margin-bottom: 20px; 
+
+
+
+
+#color1{
+    background-color: palevioletred; width: 1000px;  box-shadow:30px 40px 40px grey; height: 500px;
+    padding-left: 80px; padding-right: 80px; padding-bottom: 20px; padding-top: 20px;  border-radius: 30px; margin-left: 40px; margin-right: 40px;
+
+    margin-top: 20px; margin-bottom: 20px; margin-right: 20px;
 }
 
-.mission img{
+#color2{
+    background-color: lightgreen; width: 1000px;  box-shadow:30px 40px 40px grey; height: 500px;
+    padding-left: 80px; padding-right: 80px; padding-bottom: 20px; padding-top: 20px;  border-radius: 30px; margin-left: 40px; margin-right: 40px;
+
+    margin-top: 20px; margin-bottom: 20px; margin-right: 20px;
+}
+
+#color3{
+    background-color: powderblue; width: 1000px;  box-shadow:30px 40px 40px grey; height: 500px;
+    padding-left: 80px; padding-right: 80px; padding-bottom: 20px; padding-top: 20px;  border-radius: 30px; margin-left: 40px; margin-right: 40px;
+
+    margin-top: 20px; margin-bottom: 20px; margin-right: 20px;
+}
+
+#color1 img{
     width: 100px;
 }
-
-
-
+#color2 img{
+    width: 100px;}
+    #color3 img{
+        width: 100px;
 
 
 
