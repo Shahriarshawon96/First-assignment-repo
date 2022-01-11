@@ -13,6 +13,9 @@ body{
 h1{
     font-size: 60px;
 }
+.hmm{
+    border-left: 5px solid blue; border-radius: 2px;
+}
 .half-width{
     width: 50%; padding-left: 10px; padding-right: 40px;
 }
@@ -48,21 +51,21 @@ h1{
 
 
 #color1{
-    background-color: palevioletred; width: 1000px;  box-shadow:30px 40px 40px grey; height: 500px;
+    background-color: palevioletred; width: 1000px;  box-shadow:5px 5px 5px grey; height: 500px;
     padding-left: 80px; padding-right: 80px; padding-bottom: 20px; padding-top: 20px;  border-radius: 30px; margin-left: 40px; margin-right: 40px;
 
     margin-top: 20px; margin-bottom: 20px; margin-right: 20px;
 }
 
 #color2{
-    background-color: lightgreen; width: 1000px;  box-shadow:30px 40px 40px grey; height: 500px;
+    background-color: lightgreen; width: 1000px;  box-shadow:5px 5px 5px grey; height: 500px;
     padding-left: 80px; padding-right: 80px; padding-bottom: 20px; padding-top: 20px;  border-radius: 30px; margin-left: 40px; margin-right: 40px;
 
     margin-top: 20px; margin-bottom: 20px; margin-right: 20px;
 }
 
 #color3{
-    background-color: powderblue; width: 1000px;  box-shadow:30px 40px 40px grey; height: 500px;
+    background-color: powderblue; width: 1000px;  box-shadow:5px 5px 5px grey; height: 500px;
     padding-left: 80px; padding-right: 80px; padding-bottom: 20px; padding-top: 20px;  border-radius: 30px; margin-left: 40px; margin-right: 40px;
 
     margin-top: 20px; margin-bottom: 20px; margin-right: 20px;
