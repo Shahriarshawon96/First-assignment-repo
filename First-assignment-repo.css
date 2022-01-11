@@ -65,7 +65,7 @@ h1{
 }
 
 #color3{
-    background-color: powderblue; width: 1000px;  box-shadow:5px 5px 5px grey; height: 500px;
+    background-color: powderblue; width: 1000px;  box-shadow:5px 5px 5.px grey; height: 500px;
     padding-left: 80px; padding-right: 80px; padding-bottom: 20px; padding-top: 20px;  border-radius: 30px; margin-left: 40px; margin-right: 40px;
 
     margin-top: 20px; margin-bottom: 20px; margin-right: 20px;
